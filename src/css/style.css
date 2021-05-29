@@ -366,6 +366,7 @@ footer .footer-links-container-list li a:hover {
   color: #FFF;
 }
 footer .footer-copy-right-container {
+  text-align: center;
   width: 100%;
   margin-top: 3rem;
 }
